@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>cclass9.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/test/cclass9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cclass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>423</ymin>
+			<xmax>1598</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+</annotation>

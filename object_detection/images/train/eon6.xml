@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>eon6.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/train/eon6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>19</ymin>
+			<xmax>941</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

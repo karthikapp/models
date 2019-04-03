@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>eon7.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/test/eon7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2960</width>
+		<height>1948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>92</ymin>
+			<xmax>2960</xmax>
+			<ymax>1906</ymax>
+		</bndbox>
+	</object>
+</annotation>

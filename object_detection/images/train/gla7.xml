@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gla7.jpeg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/train/gla7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1352</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>143</ymin>
+			<xmax>1320</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

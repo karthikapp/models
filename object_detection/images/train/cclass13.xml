@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cclass13.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/train/cclass13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cclass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>186</ymin>
+			<xmax>1592</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

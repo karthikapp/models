@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>glas1.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/test/glas1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3400</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1051</xmin>
+			<ymin>481</ymin>
+			<xmax>2654</xmax>
+			<ymax>1241</ymax>
+		</bndbox>
+	</object>
+</annotation>

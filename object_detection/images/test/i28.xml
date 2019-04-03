@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>i28.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/test/i28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>353</ymin>
+			<xmax>3894</xmax>
+			<ymax>2056</ymax>
+		</bndbox>
+	</object>
+</annotation>

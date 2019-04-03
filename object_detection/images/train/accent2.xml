@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>accent2.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/train/accent2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2250</width>
+		<height>1375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>accent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>508</ymin>
+			<xmax>1799</xmax>
+			<ymax>1215</ymax>
+		</bndbox>
+	</object>
+</annotation>

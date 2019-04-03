@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>elantra11.jpg</filename>
+	<path>/home/krishna/Desktop/krishna/tensorflow_venv/tensorflow_venv/model_demo3/object_detection/images/train/elantra11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elantra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>94</ymin>
+			<xmax>995</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>
